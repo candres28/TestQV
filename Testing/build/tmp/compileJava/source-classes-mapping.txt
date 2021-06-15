@@ -1,0 +1,28 @@
+com/co/testing/test/userinterfaces/HomePage.java
+ com.co.testing.test.userinterfaces.HomePage
+com/co/testing/test/tasks/OpenBrowser.java
+ com.co.testing.test.tasks.OpenBrowser
+com/co/testing/test/tasks/SignUpJoin.java
+ com.co.testing.test.tasks.SignUpJoin
+com/co/testing/test/userinterfaces/SignUpStep2.java
+ com.co.testing.test.userinterfaces.SignUpStep2
+com/co/testing/test/userinterfaces/SignUpStep1.java
+ com.co.testing.test.userinterfaces.SignUpStep1
+com/co/testing/test/userinterfaces/WelcomePage.java
+ com.co.testing.test.userinterfaces.WelcomePage
+com/co/testing/test/tasks/Step1Personal.java
+ com.co.testing.test.tasks.Step1Personal
+com/co/testing/test/models/Data.java
+ com.co.testing.test.models.Data
+com/co/testing/test/tasks/Step3Devices.java
+ com.co.testing.test.tasks.Step3Devices
+com/co/testing/test/userinterfaces/SignUpStep3.java
+ com.co.testing.test.userinterfaces.SignUpStep3
+com/co/testing/test/questions/Message.java
+ com.co.testing.test.questions.Message
+com/co/testing/test/tasks/Step2Address.java
+ com.co.testing.test.tasks.Step2Address
+com/co/testing/test/userinterfaces/SignUpStep4.java
+ com.co.testing.test.userinterfaces.SignUpStep4
+com/co/testing/test/tasks/Step4Password.java
+ com.co.testing.test.tasks.Step4Password

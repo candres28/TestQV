@@ -1,0 +1,1 @@
+Automatización de un proceso de registro de inicio de sesión en las cuales se agregan datos de las 4 pasos para llegar al mensaje de bienvenida
